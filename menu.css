@@ -27,7 +27,7 @@ header ul.menu>li:last-child{
   border: none;
 }
 body {
-    background-image: url('longan.jpg');
+    background-image: url(longan.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
